@@ -127,7 +127,6 @@ Businesses can use these insights to:
 
 ## Author
 **Mian Shakar Afzal**  
-Data Analyst , AI / ML ENGINEER
 
 [LinkedIn](https://www.linkedin.com/in/mian-shakar-afzal-959b443a8/) | [GitHub](https://github.com/SHAKAR-AFZAL) | [Email](mailto:mianshakarafzal@gmail.com)
 
