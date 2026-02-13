@@ -103,6 +103,7 @@ The Excel dashboard displays:
 - Age-wise customer distribution  
 
 
+<img width="1424" height="827" alt="DASHBOARD PHOTO" src="https://github.com/user-attachments/assets/a1d04090-8cea-48b6-a5d3-0be9e693d2ee" />
 
 ---
 
