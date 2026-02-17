@@ -40,7 +40,7 @@ The primary goals of this project are:
 - Income  
 - Age Bracket  
 - Commute Distance  
-- Purchase Status (Yes / No)
+- Purchase Status
 
 ---
 
