@@ -119,8 +119,9 @@ Businesses can use these insights to:
 ---
 
 ## Role & Contribution
-- Data Analysis 
-- Data Cleaning & Preparation  
+- Data Analysis
+- Data Preparation 
+- Data Cleaning
 - Pivot Table
 - Chart Creation  
 - Interactive Dashboard Design  
