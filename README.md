@@ -49,7 +49,8 @@ The primary goals of this project are:
   - Pivot Tables  
   - Pivot Charts  
   - Slicers & Filters  
-  - Data Cleaning & Formatting  
+  - Data Cleaning
+  - Formatting  
   - GitHub
 
 ---
