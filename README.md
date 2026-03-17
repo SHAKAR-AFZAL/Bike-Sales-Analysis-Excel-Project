@@ -48,7 +48,8 @@ The primary goals of this project are:
 - **Microsoft Excel**
   - Pivot Tables  
   - Pivot Charts  
-  - Slicers & Filters  
+  - Slicers
+  - Filters  
   - Data Cleaning
   - Formatting  
   - GitHub
