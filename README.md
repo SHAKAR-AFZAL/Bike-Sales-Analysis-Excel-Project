@@ -83,7 +83,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
 - Commutes **above 10 miles** show the **lowest likelihood of bike purchases**.
 
 ### Age Bracket Trends
-- The **Middle Age group (31–50 years)** represents the **largest buyer segment**.  
+- The **Middle Age group of (31–50 years)** represents the **largest buyer segment**.  
 - Young adults and older age groups show comparatively **lower purchase counts**.
 
 ### Gender Distribution
