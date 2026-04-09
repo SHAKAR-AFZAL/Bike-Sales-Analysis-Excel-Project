@@ -33,7 +33,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
 ## Dataset
 🗂️ <a href="https://github.com/SHAKAR-AFZAL/Bike-Sales-Analysis-Excel-Project/blob/main/DATASET%20OF%20BIKE%20SALES.xlsx">Dataset View</a>  
  
- The Bike Sales dataset is stored in Excel format and includes the following customer attributes:
+ The Bike Sales dataset is stored in the Excel format and includes the following customer attributes:
 - Gender  
 - Region  
 - Education  
