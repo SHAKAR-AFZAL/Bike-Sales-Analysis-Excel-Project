@@ -1,4 +1,4 @@
-# 🚴 Bike Sales Analysis Dashboard
+# Bike Sales Analysis Dashboard
 
 _Analyzing customer purchasing behavior and sales patterns to support better marketing and business decisions using Microsoft Excel._
 
