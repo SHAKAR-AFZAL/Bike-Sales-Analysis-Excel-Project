@@ -26,7 +26,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
  The primary goals of this project are:
 - Identify which customer segments are more likely to purchase bikes  
 - Analyze the impact of income, age, and commute distance on buying behavior  
-- Provide data-driven insights to improve marketing and sales strategies  
+- Provide data driven insights to improve marketing and sales strategies  
 
 ---
 
