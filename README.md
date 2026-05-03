@@ -87,7 +87,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
 - Young adults and older age groups show comparatively **lower purchase counts**.
 
 ### Gender Distribution
-- Male customers slightly lead in total purchases.  
+- Male customers slightly lead in the total purchases.  
 - The difference is small, meaning **both genders are strong potential markets**.
 
 ### Education & Region Observations
