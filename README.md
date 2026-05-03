@@ -91,7 +91,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
 - The difference is small, meaning **both genders are strong potential markets**.
 
 ### Education & Region Observations
-- Higher education levels tend to align with the **more stable purchasing behavior**.  
+- Higher education levels tend to align the **more stable purchasing behavior**.  
 - Regional filters reveal **noticeable variations** in buying trends.
 
 ---
