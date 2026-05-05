@@ -51,7 +51,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
   - Slicers
   - Filters  
   - Data Cleaning
-  - Formatting  
+  - Data Formatting  
   - GitHub
 
 ---
