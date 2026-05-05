@@ -73,7 +73,7 @@ This project focuses on analyzing the bike sales data to understand customer dem
 ## Key Insights
 
 ### Income & Purchase Behavior
-- Customers who purchased bikes generally have **higher average incomes** than non-buyers.  
+- Customers who purchased the bikes generally have **higher average incomes** than non-buyers.  
 - Male buyers show **slightly higher income averages** compared to female buyers.  
 - Purchases are most common among **middle-to-high income groups**.
 
