@@ -110,7 +110,7 @@ The Excel dashboard displays:
 ---
 
 ## Conclusion
-The analysis shows that the **income level, commute distance, and age group** are the most influential factors in bike purchasing decisions. Middle-aged individuals with moderate to high incomes and shorter commute distances are the most likely customers.
+The analysis shows that the **income level, commute distance, and age group** are the most influential factors in the bike purchasing decisions. Middle-aged individuals with moderate to high incomes and shorter commute distances are the most likely customers.
 
 Businesses can use these insights to:
 - Target **working professionals** with focused campaigns  
