@@ -18,7 +18,7 @@ _Analyzing customer purchasing behavior and the sales patterns to support better
 ---
 
 ## Overview
-This project focuses on analyzing bike sales data to understand customer demographics, income levels, and commuting patterns that influence purchasing decisions. An interactive Excel dashboard was developed to convert raw customer data into clear and meaningful business insights.
+This project focuses on analyzing the bike sales data to understand customer demographics, income levels, and commuting patterns that influence purchasing decisions. An interactive Excel dashboard was developed to convert raw customer data into clear and meaningful business insights.
 
 ---
 
