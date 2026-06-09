@@ -128,7 +128,7 @@ Businesses can use these insights to:
 - Chart Creation  
 - Interactive Dashboard Design  
 - Business Insight Generation
-- Data-Driven Insights for business Growth 
+- Data Driven Insights for business Growth 
 
 ---
 
